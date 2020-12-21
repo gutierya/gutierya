@@ -10,10 +10,10 @@
  
 
 
-#### Welcome to my profile!  
+#### Welcome!  
 ##### 
 
-I'm not only a Software developer but also a current Computer Science student at AU, graduating end of 2021. I enjoy writing clean, modular and accessible code - for fun as well as freelance. My other passions when not coding are photography, design and investing.
+I enjoy writing clean, modular and accessible code - for fun as well as freelance. I'm not only a Software developer but also a current Computer Science student at AU, graduating end of 2021. My other passions when not coding are photography, design and investing.
 
 I am excited by learning new things and am always interested in collaborating with others on projects. 
 
@@ -34,13 +34,13 @@ Thanks for visiting and I'd love to connect!
 
 - ⚡ Fun fact: Am at a V3-4 level for bouldering (pre-pandemic) 🧗‍♀️  
 
-<img src="https://github.com/gutierya/gutierya/blob/main/SRC/coffee.gif?raw=true" align="center" height="150" width="175"/>
+<img src="https://github.com/gutierya/gutierya/blob/main/caffeine.gif?raw=true" align="center" height="150" width="175"/>
   
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/gutierya/gutierya/blob/main/SRC/greetings.gif?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/gutierya/gutierya/blob/main/greetingyg.gif?raw=true" align="center" style="width: 100%" />
 </div>  
 
 
@@ -89,12 +89,6 @@ Thanks for visiting and I'd love to connect!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutierya&langs_count=8)](https://github.com/gutierya/github-readme-stats)
 
 </td></tr></table>  
-
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=gutierya&&style=flat-square)  
-  
 
 
 ----
