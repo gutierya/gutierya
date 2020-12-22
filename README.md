@@ -35,9 +35,10 @@ Thanks for visiting and I'd love to connect!
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/gutierya/gutierya/blob/main/greetingyg.gif?raw=true" align="center" style="width: 100%" />
+
 </div>  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutierya)](https://github.com/gutierya/github-readme-stats)
 
 </td></tr></table>  
 
@@ -77,10 +78,8 @@ Thanks for visiting and I'd love to connect!
 
 ![Yamilet's github stats](https://github-readme-stats.vercel.app/api?username=gutierya&show_icons=true&theme=midnight-purple)
 
-</td><td valign="top" width="50%">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutierya&langs_count=8)](https://github.com/gutierya/github-readme-stats)
 
 </td></tr></table>  
 
