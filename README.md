@@ -25,12 +25,7 @@ Thanks for visiting and I'd love to connect!
 
 - 🔭 I’m currently working through the MERN stack 🏃‍♀️  
   
-
 - 🌱 I’m currently learning Javascript & expanding my current Python knowledge.  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
 
 - ⚡ Fun fact: Am at a V3-4 level for bouldering (pre-pandemic) 🧗‍♀️  
 
