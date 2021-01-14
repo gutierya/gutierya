@@ -1,4 +1,4 @@
-## Hi 👋, I'm Yamilet G.! (She/Her/Hers)  
+## Hi 👋, I'm Yamilet ! (She/Her/Hers)  
   
 
 <a href="https://github.com/gutierya" target="_blank">
