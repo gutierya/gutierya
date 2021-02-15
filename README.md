@@ -23,13 +23,12 @@ Thanks for visiting and I'd love to connect!
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working through the MERN stack and enrolled in a CyberSecurity course that will help me think like a hacker and build safer secure websites. 🏃‍♀️  
+- 🔭 I’m currently working through the MERN stack and enrolled in a CyberSecurity course that will help me think outside the box and build safer secure websites. 🏃‍♀️  
   
 - 🌱 I’m currently learning Javascript & next on my list would be expanding my Python knowledge.  
 
 - ⚡ Fun fact: Am at a V3-4 level for bouldering (pre-pandemic) 🧗‍♀️  
 
-<img src="https://github.com/gutierya/gutierya/blob/main/caffeine.gif?raw=true" align="center" height="150" width="175"/>
   
 
 </td><td valign="top" width="50%">
@@ -38,7 +37,9 @@ Thanks for visiting and I'd love to connect!
 
 </div>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gutierya)](https://github.com/gutierya/github-readme-stats)
+![Yamilet's github stats](https://github-readme-stats.vercel.app/api?username=gutierya&show_icons=true&theme=midnight-purple)
+
+
 
 </td></tr></table>  
 
@@ -75,8 +76,6 @@ Thanks for visiting and I'd love to connect!
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
-
-![Yamilet's github stats](https://github-readme-stats.vercel.app/api?username=gutierya&show_icons=true&theme=midnight-purple)
 
 
 
