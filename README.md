@@ -45,7 +45,6 @@ Thanks for visiting and I'd love to connect!
 
 <br/>  
 
-
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
@@ -72,16 +71,3 @@ Thanks for visiting and I'd love to connect!
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-
-</td></tr></table>  
-
-
-----
-
