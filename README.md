@@ -18,9 +18,9 @@ Thanks for visiting and I'd love to connect!
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working through the MERN stack and enrolled in a CyberSecurity course that will help me think outside the box and build safer secure websites. 🏃‍♀️  
+- 🔭 I’m currently working through the MERN stack. 🏃‍♀️  
   
-- 🌱 I’m currently learning Javascript & next on my list would be expanding my Python knowledge.  
+- 🌱 On my list would be expanding my JAVA/Python knowledge.  
 
 - ⚡ Fun fact: Am at a V3-4 level for bouldering (pre-pandemic) 🧗‍♀️  
 
