@@ -8,7 +8,7 @@
 #### Welcome!  
 ##### 
 
-I enjoy writing clean, modular and accessible code - for fun as well as freelance. I'm not only a Software developer but also a current Computer Science student at AU, graduating end of 2021. My other passions when not coding are photography, design and investing.
+I enjoy writing clean, modular and accessible code - for fun as well as freelance. I'm not only a Software developer but also a current Computer Science student at AU. My other passions when not coding are photography, design and investing.
 
 I am excited by learning new things and am always interested in collaborating with others on projects. 
 
