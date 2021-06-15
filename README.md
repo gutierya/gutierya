@@ -20,7 +20,7 @@ Thanks for visiting and I'd love to connect!
 
 - 🔭 Working through 'JAVA' focused full stack development. 🏃‍♀️  
   
-- ⚡ Fun fact: Am at a V3-4 level for bouldering (pre-pandemic) 🧗‍♀️  
+- ⚡ Fun fact: I can play the kalimba instrument 🎹
 
   
 
