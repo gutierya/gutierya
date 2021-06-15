@@ -18,10 +18,8 @@ Thanks for visiting and I'd love to connect!
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working through the MERN stack. 🏃‍♀️  
+- 🔭 Working through 'JAVA' focused full stack development. 🏃‍♀️  
   
-- 🌱 On my list would be expanding my JAVA/Python knowledge.  
-
 - ⚡ Fun fact: Am at a V3-4 level for bouldering (pre-pandemic) 🧗‍♀️  
 
   
